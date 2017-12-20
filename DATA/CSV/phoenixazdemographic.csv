@@ -1,0 +1,769 @@
+year,title_field,value
+2015,Total Population,1563001
+2015,Male Population,786833
+2015,Male Under 5 years,60464
+2015,Male 5 to 9 years,60456
+2015,Male 10 to 14 years,61339
+2015,Male 15 to 17 years,33349
+2015,Male 18 and 19 years,20386
+2015,Male 20 years,12826
+2015,Male 21 years,10979
+2015,Male 22 to 24 years,36299
+2015,Male 25 to 29 years,60256
+2015,Male 30 to 34 years,63952
+2015,Male 35 to 39 years,58340
+2015,Male 40 to 44 years,54952
+2015,Male 45 to 49 years,50061
+2015,Male 50 to 54 years,50136
+2015,Male 55 to 59 years,43551
+2015,Male 60 and 61 years,15445
+2015,Male 62 to 64 years,23307
+2015,Male 65 and 66 years,10765
+2015,Male 67 to 69 years,15295
+2015,Male 70 to 74 years,18028
+2015,Male 75 to 79 years,13187
+2015,Male 80 to 84 years,6415
+2015,Male 85 years and over,7045
+2015,Female Population,776168
+2015,Female Under 5 years,52735
+2015,Female 5 to 9 years,55631
+2015,Female 10 to 14 years,53673
+2015,Female 15 to 17 years,33086
+2015,Female 18 and 19 years,18632
+2015,Female 20 years,10956
+2015,Female 21 years,10666
+2015,Female 22 to 24 years,35878
+2015,Female 25 to 29 years,60806
+2015,Female 30 to 34 years,59150
+2015,Female 35 to 39 years,60799
+2015,Female 40 to 44 years,49435
+2015,Female 45 to 49 years,51014
+2015,Female 50 to 54 years,49469
+2015,Female 55 to 59 years,44870
+2015,Female 60 and 61 years,16690
+2015,Female 62 to 64 years,21515
+2015,Female 65 and 66 years,15247
+2015,Female 67 to 69 years,16453
+2015,Female 70 to 74 years,20572
+2015,Female 75 to 79 years,16406
+2015,Female 80 to 84 years,9926
+2015,Female 85 years and over,12559
+2014,Total Population,1537045
+2014,Male Population,763915
+2014,Male Under 5 years,59171
+2014,Male 5 to 9 years,59534
+2014,Male 10 to 14 years,54680
+2014,Male 15 to 17 years,33595
+2014,Male 18 and 19 years,21970
+2014,Male 20 years,11363
+2014,Male 21 years,11303
+2014,Male 22 to 24 years,32021
+2014,Male 25 to 29 years,61958
+2014,Male 30 to 34 years,61971
+2014,Male 35 to 39 years,49966
+2014,Male 40 to 44 years,58826
+2014,Male 45 to 49 years,50909
+2014,Male 50 to 54 years,50199
+2014,Male 55 to 59 years,42718
+2014,Male 60 and 61 years,13994
+2014,Male 62 to 64 years,21142
+2014,Male 65 and 66 years,11704
+2014,Male 67 to 69 years,15605
+2014,Male 70 to 74 years,16074
+2014,Male 75 to 79 years,10448
+2014,Male 80 to 84 years,7788
+2014,Male 85 years and over,6976
+2014,Female Population,773130
+2014,Female Under 5 years,56558
+2014,Female 5 to 9 years,60076
+2014,Female 10 to 14 years,56764
+2014,Female 15 to 17 years,32531
+2014,Female 18 and 19 years,20805
+2014,Female 20 years,12081
+2014,Female 21 years,9580
+2014,Female 22 to 24 years,36043
+2014,Female 25 to 29 years,61093
+2014,Female 30 to 34 years,56756
+2014,Female 35 to 39 years,54943
+2014,Female 40 to 44 years,53318
+2014,Female 45 to 49 years,50924
+2014,Female 50 to 54 years,50691
+2014,Female 55 to 59 years,40605
+2014,Female 60 and 61 years,16301
+2014,Female 62 to 64 years,22360
+2014,Female 65 and 66 years,13953
+2014,Female 67 to 69 years,14739
+2014,Female 70 to 74 years,21013
+2014,Female 75 to 79 years,12781
+2014,Female 80 to 84 years,9269
+2014,Female 85 years and over,9946
+2013,Total Population,1513350
+2013,Male Population,756150
+2013,Male Under 5 years,58342
+2013,Male 5 to 9 years,60695
+2013,Male 10 to 14 years,57410
+2013,Male 15 to 17 years,31037
+2013,Male 18 and 19 years,20823
+2013,Male 20 years,13931
+2013,Male 21 years,12643
+2013,Male 22 to 24 years,36211
+2013,Male 25 to 29 years,65095
+2013,Male 30 to 34 years,59552
+2013,Male 35 to 39 years,49331
+2013,Male 40 to 44 years,53288
+2013,Male 45 to 49 years,51548
+2013,Male 50 to 54 years,50730
+2013,Male 55 to 59 years,42111
+2013,Male 60 and 61 years,14886
+2013,Male 62 to 64 years,18761
+2013,Male 65 and 66 years,11849
+2013,Male 67 to 69 years,12561
+2013,Male 70 to 74 years,13408
+2013,Male 75 to 79 years,9402
+2013,Male 80 to 84 years,6358
+2013,Male 85 years and over,6178
+2013,Female Population,757200
+2013,Female Under 5 years,53616
+2013,Female 5 to 9 years,59162
+2013,Female 10 to 14 years,53064
+2013,Female 15 to 17 years,30825
+2013,Female 18 and 19 years,18726
+2013,Female 20 years,11697
+2013,Female 21 years,11275
+2013,Female 22 to 24 years,35751
+2013,Female 25 to 29 years,58130
+2013,Female 30 to 34 years,61162
+2013,Female 35 to 39 years,48502
+2013,Female 40 to 44 years,55516
+2013,Female 45 to 49 years,49565
+2013,Female 50 to 54 years,51792
+2013,Female 55 to 59 years,43494
+2013,Female 60 and 61 years,14875
+2013,Female 62 to 64 years,21548
+2013,Female 65 and 66 years,13729
+2013,Female 67 to 69 years,12604
+2013,Female 70 to 74 years,20446
+2013,Female 75 to 79 years,12012
+2013,Female 80 to 84 years,8524
+2013,Female 85 years and over,11185
+2012,Total Population,1488759
+2012,Male Population,743172
+2012,Male Under 5 years,60116
+2012,Male 5 to 9 years,59163
+2012,Male 10 to 14 years,54365
+2012,Male 15 to 17 years,32176
+2012,Male 18 and 19 years,21428
+2012,Male 20 years,12783
+2012,Male 21 years,12205
+2012,Male 22 to 24 years,34519
+2012,Male 25 to 29 years,58629
+2012,Male 30 to 34 years,60544
+2012,Male 35 to 39 years,51128
+2012,Male 40 to 44 years,56002
+2012,Male 45 to 49 years,51326
+2012,Male 50 to 54 years,45357
+2012,Male 55 to 59 years,39744
+2012,Male 60 and 61 years,14767
+2012,Male 62 to 64 years,18543
+2012,Male 65 and 66 years,11958
+2012,Male 67 to 69 years,10604
+2012,Male 70 to 74 years,14292
+2012,Male 75 to 79 years,10137
+2012,Male 80 to 84 years,7019
+2012,Male 85 years and over,6367
+2012,Female Population,745587
+2012,Female Under 5 years,57370
+2012,Female 5 to 9 years,55445
+2012,Female 10 to 14 years,54409
+2012,Female 15 to 17 years,31069
+2012,Female 18 and 19 years,20259
+2012,Female 20 years,10650
+2012,Female 21 years,11803
+2012,Female 22 to 24 years,33643
+2012,Female 25 to 29 years,56998
+2012,Female 30 to 34 years,52714
+2012,Female 35 to 39 years,51732
+2012,Female 40 to 44 years,57358
+2012,Female 45 to 49 years,51601
+2012,Female 50 to 54 years,48019
+2012,Female 55 to 59 years,43224
+2012,Female 60 and 61 years,13731
+2012,Female 62 to 64 years,19361
+2012,Female 65 and 66 years,11694
+2012,Female 67 to 69 years,14146
+2012,Female 70 to 74 years,17545
+2012,Female 75 to 79 years,12392
+2012,Female 80 to 84 years,10297
+2012,Female 85 years and over,10127
+2011,Total Population,1469484
+2011,Male Population,739978
+2011,Male Under 5 years,62498
+2011,Male 5 to 9 years,52601
+2011,Male 10 to 14 years,60524
+2011,Male 15 to 17 years,36236
+2011,Male 18 and 19 years,20729
+2011,Male 20 years,12707
+2011,Male 21 years,10527
+2011,Male 22 to 24 years,38463
+2011,Male 25 to 29 years,57706
+2011,Male 30 to 34 years,52707
+2011,Male 35 to 39 years,52772
+2011,Male 40 to 44 years,54571
+2011,Male 45 to 49 years,53612
+2011,Male 50 to 54 years,45596
+2011,Male 55 to 59 years,40211
+2011,Male 60 and 61 years,15982
+2011,Male 62 to 64 years,18128
+2011,Male 65 and 66 years,7979
+2011,Male 67 to 69 years,11181
+2011,Male 70 to 74 years,14151
+2011,Male 75 to 79 years,9021
+2011,Male 80 to 84 years,7213
+2011,Male 85 years and over,4863
+2011,Female Population,729506
+2011,Female Under 5 years,53517
+2011,Female 5 to 9 years,54998
+2011,Female 10 to 14 years,51098
+2011,Female 15 to 17 years,34120
+2011,Female 18 and 19 years,19128
+2011,Female 20 years,11890
+2011,Female 21 years,12392
+2011,Female 22 to 24 years,30647
+2011,Female 25 to 29 years,57073
+2011,Female 30 to 34 years,51399
+2011,Female 35 to 39 years,49852
+2011,Female 40 to 44 years,54786
+2011,Female 45 to 49 years,54011
+2011,Female 50 to 54 years,47955
+2011,Female 55 to 59 years,42438
+2011,Female 60 and 61 years,14115
+2011,Female 62 to 64 years,18048
+2011,Female 65 and 66 years,9967
+2011,Female 67 to 69 years,12643
+2011,Female 70 to 74 years,15727
+2011,Female 75 to 79 years,13539
+2011,Female 80 to 84 years,9201
+2011,Female 85 years and over,10962
+2010,Total Population,1449481
+2010,Male Population,731869
+2010,Male Under 5 years,58996
+2010,Male 5 to 9 years,55910
+2010,Male 10 to 14 years,63443
+2010,Male 15 to 17 years,32897
+2010,Male 18 and 19 years,23123
+2010,Male 20 years,10894
+2010,Male 21 years,11140
+2010,Male 22 to 24 years,31499
+2010,Male 25 to 29 years,58826
+2010,Male 30 to 34 years,60161
+2010,Male 35 to 39 years,53755
+2010,Male 40 to 44 years,53459
+2010,Male 45 to 49 years,48164
+2010,Male 50 to 54 years,44086
+2010,Male 55 to 59 years,36985
+2010,Male 60 and 61 years,13418
+2010,Male 62 to 64 years,18246
+2010,Male 65 and 66 years,9678
+2010,Male 67 to 69 years,11811
+2010,Male 70 to 74 years,13057
+2010,Male 75 to 79 years,11341
+2010,Male 80 to 84 years,5911
+2010,Male 85 years and over,5069
+2010,Female Population,717612
+2010,Female Under 5 years,53022
+2010,Female 5 to 9 years,52837
+2010,Female 10 to 14 years,57201
+2010,Female 15 to 17 years,29110
+2010,Female 18 and 19 years,19698
+2010,Female 20 years,10088
+2010,Female 21 years,12129
+2010,Female 22 to 24 years,29613
+2010,Female 25 to 29 years,58329
+2010,Female 30 to 34 years,54958
+2010,Female 35 to 39 years,52070
+2010,Female 40 to 44 years,50812
+2010,Female 45 to 49 years,49562
+2010,Female 50 to 54 years,46670
+2010,Female 55 to 59 years,37447
+2010,Female 60 and 61 years,14991
+2010,Female 62 to 64 years,19526
+2010,Female 65 and 66 years,10524
+2010,Female 67 to 69 years,13396
+2010,Female 70 to 74 years,15593
+2010,Female 75 to 79 years,10807
+2010,Female 80 to 84 years,10346
+2010,Female 85 years and over,8883
+2009,Total Population,1593660
+2009,Male Population,822807
+2009,Male Under 5 years,78210
+2009,Male 5 to 9 years,63125
+2009,Male 10 to 14 years,58316
+2009,Male 15 to 17 years,37441
+2009,Male 18 and 19 years,20907
+2009,Male 20 years,12839
+2009,Male 21 years,8985
+2009,Male 22 to 24 years,33897
+2009,Male 25 to 29 years,79300
+2009,Male 30 to 34 years,72926
+2009,Male 35 to 39 years,66780
+2009,Male 40 to 44 years,59517
+2009,Male 45 to 49 years,58159
+2009,Male 50 to 54 years,49384
+2009,Male 55 to 59 years,37709
+2009,Male 60 and 61 years,13900
+2009,Male 62 to 64 years,18428
+2009,Male 65 and 66 years,7963
+2009,Male 67 to 69 years,9475
+2009,Male 70 to 74 years,12981
+2009,Male 75 to 79 years,9968
+2009,Male 80 to 84 years,7389
+2009,Male 85 years and over,5208
+2009,Female Population,770853
+2009,Female Under 5 years,71719
+2009,Female 5 to 9 years,64438
+2009,Female 10 to 14 years,60078
+2009,Female 15 to 17 years,33150
+2009,Female 18 and 19 years,19611
+2009,Female 20 years,9458
+2009,Female 21 years,9241
+2009,Female 22 to 24 years,30904
+2009,Female 25 to 29 years,63270
+2009,Female 30 to 34 years,63166
+2009,Female 35 to 39 years,56115
+2009,Female 40 to 44 years,51587
+2009,Female 45 to 49 years,52558
+2009,Female 50 to 54 years,46442
+2009,Female 55 to 59 years,37630
+2009,Female 60 and 61 years,17827
+2009,Female 62 to 64 years,16735
+2009,Female 65 and 66 years,8413
+2009,Female 67 to 69 years,11272
+2009,Female 70 to 74 years,13825
+2009,Female 75 to 79 years,13234
+2009,Female 80 to 84 years,9402
+2009,Female 85 years and over,10778
+2008,Total Population,1525257
+2008,Male Population,784042
+2008,Male Under 5 years,68429
+2008,Male 5 to 9 years,62916
+2008,Male 10 to 14 years,58018
+2008,Male 15 to 17 years,35450
+2008,Male 18 and 19 years,19380
+2008,Male 20 years,11069
+2008,Male 21 years,14143
+2008,Male 22 to 24 years,30910
+2008,Male 25 to 29 years,70091
+2008,Male 30 to 34 years,68119
+2008,Male 35 to 39 years,62722
+2008,Male 40 to 44 years,58657
+2008,Male 45 to 49 years,56769
+2008,Male 50 to 54 years,48848
+2008,Male 55 to 59 years,40847
+2008,Male 60 and 61 years,13578
+2008,Male 62 to 64 years,15258
+2008,Male 65 and 66 years,8349
+2008,Male 67 to 69 years,10133
+2008,Male 70 to 74 years,11096
+2008,Male 75 to 79 years,10341
+2008,Male 80 to 84 years,4916
+2008,Male 85 years and over,4003
+2008,Female Population,741215
+2008,Female Under 5 years,71511
+2008,Female 5 to 9 years,59041
+2008,Female 10 to 14 years,54300
+2008,Female 15 to 17 years,30069
+2008,Female 18 and 19 years,18634
+2008,Female 20 years,8206
+2008,Female 21 years,8605
+2008,Female 22 to 24 years,27752
+2008,Female 25 to 29 years,57738
+2008,Female 30 to 34 years,59502
+2008,Female 35 to 39 years,53882
+2008,Female 40 to 44 years,53305
+2008,Female 45 to 49 years,54405
+2008,Female 50 to 54 years,47568
+2008,Female 55 to 59 years,37944
+2008,Female 60 and 61 years,13528
+2008,Female 62 to 64 years,17395
+2008,Female 65 and 66 years,8254
+2008,Female 67 to 69 years,11855
+2008,Female 70 to 74 years,14197
+2008,Female 75 to 79 years,13025
+2008,Female 80 to 84 years,9464
+2008,Female 85 years and over,11035
+2015,Total Population in Households,1546267
+2015,In family households,1273396
+2015,In family households - In married-couple family,797860
+2015,In family households - In married-couple family - Relatives,788678
+2015,In family households - In married-couple family - Nonrelatives,9182
+2015,"In family households - In male householder, no wife present, family",153158
+2015,"In family households - In male householder, no wife present, family - Relatives",132514
+2015,"In family households - In male householder, no wife present, family - Nonrelatives",20644
+2015,"In family households - In female householder, no husband present, family",322378
+2015,"In family households - In female householder, no husband present, family - Relatives",298057
+2015,"In family households - In female householder, no husband present, family - Nonrelatives",24321
+2015,In nonfamily households,272871
+2014,Total Population in Households,1518461
+2014,In family households,1245909
+2014,In family households - In married-couple family,771085
+2014,In family households - In married-couple family - Relatives,763921
+2014,In family households - In married-couple family - Nonrelatives,7164
+2014,"In family households - In male householder, no wife present, family",158358
+2014,"In family households - In male householder, no wife present, family - Relatives",139765
+2014,"In family households - In male householder, no wife present, family - Nonrelatives",18593
+2014,"In family households - In female householder, no husband present, family",316466
+2014,"In family households - In female householder, no husband present, family - Relatives",293579
+2014,"In family households - In female householder, no husband present, family - Nonrelatives",22887
+2014,In nonfamily households,272552
+2013,Total Population in Households,1497166
+2013,In family households,1238074
+2013,In family households - In married-couple family,765156
+2013,In family households - In married-couple family - Relatives,755351
+2013,In family households - In married-couple family - Nonrelatives,9805
+2013,"In family households - In male householder, no wife present, family",132808
+2013,"In family households - In male householder, no wife present, family - Relatives",117178
+2013,"In family households - In male householder, no wife present, family - Nonrelatives",15630
+2013,"In family households - In female householder, no husband present, family",340110
+2013,"In family households - In female householder, no husband present, family - Relatives",310621
+2013,"In family households - In female householder, no husband present, family - Nonrelatives",29489
+2013,In nonfamily households,259092
+2012,Total Population in Households,1472806
+2012,In family households,1209316
+2012,In family households - In married-couple family,749453
+2012,In family households - In married-couple family - Relatives,741428
+2012,In family households - In married-couple family - Nonrelatives,8025
+2012,"In family households - In male householder, no wife present, family",128237
+2012,"In family households - In male householder, no wife present, family - Relatives",111306
+2012,"In family households - In male householder, no wife present, family - Nonrelatives",16931
+2012,"In family households - In female householder, no husband present, family",331626
+2012,"In family households - In female householder, no husband present, family - Relatives",306402
+2012,"In family households - In female householder, no husband present, family - Nonrelatives",25224
+2012,In nonfamily households,263490
+2011,Total Population in Households,1451728
+2011,In family households,1205217
+2011,In family households - In married-couple family,767664
+2011,In family households - In married-couple family - Relatives,759165
+2011,In family households - In married-couple family - Nonrelatives,8499
+2011,"In family households - In male householder, no wife present, family",138599
+2011,"In family households - In male householder, no wife present, family - Relatives",117847
+2011,"In family households - In male householder, no wife present, family - Nonrelatives",20752
+2011,"In family households - In female householder, no husband present, family",298954
+2011,"In family households - In female householder, no husband present, family - Relatives",280949
+2011,"In family households - In female householder, no husband present, family - Nonrelatives",18005
+2011,In nonfamily households,246511
+2010,Total Population in Households,1429618
+2010,In family households,1185941
+2010,In family households - In married-couple family,776629
+2010,In family households - In married-couple family - Relatives,769347
+2010,In family households - In married-couple family - Nonrelatives,7282
+2010,"In family households - In male householder, no wife present, family",118352
+2010,"In family households - In male householder, no wife present, family - Relatives",99872
+2010,"In family households - In male householder, no wife present, family - Nonrelatives",18480
+2010,"In family households - In female householder, no husband present, family",290960
+2010,"In family households - In female householder, no husband present, family - Relatives",274296
+2010,"In family households - In female householder, no husband present, family - Nonrelatives",16664
+2010,In nonfamily households,243677
+2009,Total Population in Households,1571824
+2009,In family households,1328879
+2009,In family households - In married-couple family,875582
+2009,In family households - In married-couple family - Relatives,864700
+2009,In family households - In married-couple family - Nonrelatives,10882
+2009,"In family households - In male householder, no wife present, family",152854
+2009,"In family households - In male householder, no wife present, family - Relatives",129936
+2009,"In family households - In male householder, no wife present, family - Nonrelatives",22918
+2009,"In family households - In female householder, no husband present, family",300443
+2009,"In family households - In female householder, no husband present, family - Relatives",281767
+2009,"In family households - In female householder, no husband present, family - Nonrelatives",18676
+2009,In nonfamily households,242945
+2008,Total Population in Households,1509723
+2008,In family households,1245178
+2008,In family households - In married-couple family,808651
+2008,In family households - In married-couple family - Relatives,797500
+2008,In family households - In married-couple family - Nonrelatives,11151
+2008,"In family households - In male householder, no wife present, family",146760
+2008,"In family households - In male householder, no wife present, family - Relatives",128140
+2008,"In family households - In male householder, no wife present, family - Nonrelatives",18620
+2008,"In family households - In female householder, no husband present, family",289767
+2008,"In family households - In female householder, no husband present, family - Relatives",269141
+2008,"In family households - In female householder, no husband present, family - Nonrelatives",20626
+2008,In nonfamily households,264545
+2015,Total Population 25 Years and over,995646
+2015,Male Population 25 Years and over,490735
+2015,Male - No schooling completed,10122
+2015,Male - Nursery to 4th grade,7288
+2015,Male - 5th and 6th grade,15644
+2015,Male - 7th and 8th grade,14350
+2015,Male - 9th grade,13428
+2015,Male - 10th grade,11628
+2015,Male - 11th grade,14885
+2015,"Male - 12th grade, no diploma",11867
+2015,"Male - High school graduate, GED, or alternative",124461
+2015,"Male - Some college, less than 1 year",29010
+2015,"Male - Some college, 1 or more years, no degree",73822
+2015,Male - Associate's degree,34317
+2015,Male - Bachelor's degree,84452
+2015,Male - Master's degree,29049
+2015,Male - Professional school degree,10966
+2015,Male - Doctorate degree,5446
+2015,Female Population 25 Years and over,504911
+2015,Female - No schooling completed,12524
+2015,Female - Nursery to 4th grade,6274
+2015,Female - 5th and 6th grade,18079
+2015,Female - 7th and 8th grade,14395
+2015,Female - 9th grade,11798
+2015,Female - 10th grade,9501
+2015,Female - 11th grade,13757
+2015,"Female - 12th grade, no diploma",11755
+2015,"Female - High school graduate, GED, or alternative",120839
+2015,"Female - Some college, less than 1 year",34182
+2015,"Female - Some college, 1 or more years, no degree",75583
+2015,Female - Associate's degree,40975
+2015,Female - Bachelor's degree,87530
+2015,Female - Master's degree,35088
+2015,Female - Professional school degree,8288
+2015,Female - Doctorate degree,4343
+2014,Total Population 25 Years and over,968970
+2014,Male Population 25 Years and over,480278
+2014,Male - No schooling completed,10079
+2014,Male - Nursery to 4th grade,6654
+2014,Male - 5th and 6th grade,15866
+2014,Male - 7th and 8th grade,18774
+2014,Male - 9th grade,10034
+2014,Male - 10th grade,8874
+2014,Male - 11th grade,12565
+2014,"Male - 12th grade, no diploma",11455
+2014,"Male - High school graduate, GED, or alternative",114396
+2014,"Male - Some college, less than 1 year",27889
+2014,"Male - Some college, 1 or more years, no degree",76594
+2014,Male - Associate's degree,35121
+2014,Male - Bachelor's degree,84250
+2014,Male - Master's degree,32429
+2014,Male - Professional school degree,11147
+2014,Male - Doctorate degree,4151
+2014,Female Population 25 Years and over,488692
+2014,Female - No schooling completed,9275
+2014,Female - Nursery to 4th grade,4141
+2014,Female - 5th and 6th grade,18337
+2014,Female - 7th and 8th grade,17772
+2014,Female - 9th grade,10259
+2014,Female - 10th grade,9687
+2014,Female - 11th grade,10372
+2014,"Female - 12th grade, no diploma",9376
+2014,"Female - High school graduate, GED, or alternative",109241
+2014,"Female - Some college, less than 1 year",35756
+2014,"Female - Some college, 1 or more years, no degree",79130
+2014,Female - Associate's degree,42095
+2014,Female - Bachelor's degree,85256
+2014,Female - Master's degree,37161
+2014,Female - Professional school degree,6995
+2014,Female - Doctorate degree,3839
+2013,Total Population 25 Years and over,948142
+2013,Male Population 25 Years and over,465058
+2013,Male - No schooling completed,6825
+2013,Male - Nursery to 4th grade,5978
+2013,Male - 5th and 6th grade,15424
+2013,Male - 7th and 8th grade,16995
+2013,Male - 9th grade,9830
+2013,Male - 10th grade,10140
+2013,Male - 11th grade,12598
+2013,"Male - 12th grade, no diploma",12061
+2013,"Male - High school graduate, GED, or alternative",112833
+2013,"Male - Some college, less than 1 year",27960
+2013,"Male - Some college, 1 or more years, no degree",75061
+2013,Male - Associate's degree,35422
+2013,Male - Bachelor's degree,79996
+2013,Male - Master's degree,28720
+2013,Male - Professional school degree,10106
+2013,Male - Doctorate degree,5109
+2013,Female Population 25 Years and over,483084
+2013,Female - No schooling completed,7012
+2013,Female - Nursery to 4th grade,5865
+2013,Female - 5th and 6th grade,16671
+2013,Female - 7th and 8th grade,16885
+2013,Female - 9th grade,9835
+2013,Female - 10th grade,9534
+2013,Female - 11th grade,12092
+2013,"Female - 12th grade, no diploma",10558
+2013,"Female - High school graduate, GED, or alternative",114474
+2013,"Female - Some college, less than 1 year",33547
+2013,"Female - Some college, 1 or more years, no degree",76653
+2013,Female - Associate's degree,41185
+2013,Female - Bachelor's degree,82462
+2013,Female - Master's degree,35604
+2013,Female - Professional school degree,7276
+2013,Female - Doctorate degree,3431
+2012,Total Population 25 Years and over,927356
+2012,Male Population 25 Years and over,456417
+2012,Male - No schooling completed,6952
+2012,Male - Nursery to 4th grade,6712
+2012,Male - 5th and 6th grade,21512
+2012,Male - 7th and 8th grade,12541
+2012,Male - 9th grade,10395
+2012,Male - 10th grade,9141
+2012,Male - 11th grade,12199
+2012,"Male - 12th grade, no diploma",12735
+2012,"Male - High school graduate, GED, or alternative",107028
+2012,"Male - Some college, less than 1 year",27495
+2012,"Male - Some college, 1 or more years, no degree",70718
+2012,Male - Associate's degree,33343
+2012,Male - Bachelor's degree,78485
+2012,Male - Master's degree,31193
+2012,Male - Professional school degree,11760
+2012,Male - Doctorate degree,4208
+2012,Female Population 25 Years and over,470939
+2012,Female - No schooling completed,8762
+2012,Female - Nursery to 4th grade,7279
+2012,Female - 5th and 6th grade,18894
+2012,Female - 7th and 8th grade,12874
+2012,Female - 9th grade,10911
+2012,Female - 10th grade,9696
+2012,Female - 11th grade,9826
+2012,"Female - 12th grade, no diploma",10123
+2012,"Female - High school graduate, GED, or alternative",110727
+2012,"Female - Some college, less than 1 year",34203
+2012,"Female - Some college, 1 or more years, no degree",75603
+2012,Female - Associate's degree,40187
+2012,Female - Bachelor's degree,79096
+2012,Female - Master's degree,31236
+2012,Female - Professional school degree,7490
+2012,Female - Doctorate degree,4032
+2011,Total Population 25 Years and over,907409
+2011,Male Population 25 Years and over,445693
+2011,Male - No schooling completed,7550
+2011,Male - Nursery to 4th grade,7856
+2011,Male - 5th and 6th grade,15833
+2011,Male - 7th and 8th grade,14863
+2011,Male - 9th grade,11354
+2011,Male - 10th grade,10144
+2011,Male - 11th grade,11024
+2011,"Male - 12th grade, no diploma",15105
+2011,"Male - High school graduate, GED, or alternative",104111
+2011,"Male - Some college, less than 1 year",26871
+2011,"Male - Some college, 1 or more years, no degree",74708
+2011,Male - Associate's degree,26913
+2011,Male - Bachelor's degree,80072
+2011,Male - Master's degree,25231
+2011,Male - Professional school degree,9168
+2011,Male - Doctorate degree,4890
+2011,Female Population 25 Years and over,461716
+2011,Female - No schooling completed,7542
+2011,Female - Nursery to 4th grade,7691
+2011,Female - 5th and 6th grade,16287
+2011,Female - 7th and 8th grade,10750
+2011,Female - 9th grade,12729
+2011,Female - 10th grade,9722
+2011,Female - 11th grade,11382
+2011,"Female - 12th grade, no diploma",12190
+2011,"Female - High school graduate, GED, or alternative",111115
+2011,"Female - Some college, less than 1 year",34147
+2011,"Female - Some college, 1 or more years, no degree",77491
+2011,Female - Associate's degree,34382
+2011,Female - Bachelor's degree,77945
+2011,Female - Master's degree,29337
+2011,Female - Professional school degree,6635
+2011,Female - Doctorate degree,2371
+2010,Total Population 25 Years and over,897881
+2010,Male Population 25 Years and over,443967
+2010,Male - No schooling completed,6748
+2010,Male - Nursery to 4th grade,6725
+2010,Male - 5th and 6th grade,16320
+2010,Male - 7th and 8th grade,11092
+2010,Male - 9th grade,9661
+2010,Male - 10th grade,10478
+2010,Male - 11th grade,15334
+2010,"Male - 12th grade, no diploma",9926
+2010,"Male - High school graduate, GED, or alternative",116295
+2010,"Male - Some college, less than 1 year",27368
+2010,"Male - Some college, 1 or more years, no degree",69395
+2010,Male - Associate's degree,32751
+2010,Male - Bachelor's degree,74738
+2010,Male - Master's degree,24734
+2010,Male - Professional school degree,8451
+2010,Male - Doctorate degree,3951
+2010,Female Population 25 Years and over,453914
+2010,Female - No schooling completed,7680
+2010,Female - Nursery to 4th grade,6760
+2010,Female - 5th and 6th grade,13677
+2010,Female - 7th and 8th grade,14751
+2010,Female - 9th grade,11546
+2010,Female - 10th grade,9165
+2010,Female - 11th grade,10654
+2010,"Female - 12th grade, no diploma",10005
+2010,"Female - High school graduate, GED, or alternative",117878
+2010,"Female - Some college, less than 1 year",35491
+2010,"Female - Some college, 1 or more years, no degree",72204
+2010,Female - Associate's degree,32154
+2010,Female - Bachelor's degree,74550
+2010,Female - Master's degree,27961
+2010,Female - Professional school degree,6573
+2010,Female - Doctorate degree,2865
+2009,Total Population 25 Years and over,981341
+2009,Male Population 25 Years and over,509087
+2009,Male - No schooling completed,8571
+2009,Male - Nursery to 4th grade,9143
+2009,Male - 5th and 6th grade,26159
+2009,Male - 7th and 8th grade,16498
+2009,Male - 9th grade,14975
+2009,Male - 10th grade,13872
+2009,Male - 11th grade,14439
+2009,"Male - 12th grade, no diploma",14127
+2009,"Male - High school graduate, GED, or alternative",123980
+2009,"Male - Some college, less than 1 year",28856
+2009,"Male - Some college, 1 or more years, no degree",83834
+2009,Male - Associate's degree,31704
+2009,Male - Bachelor's degree,77205
+2009,Male - Master's degree,30058
+2009,Male - Professional school degree,10787
+2009,Male - Doctorate degree,4879
+2009,Female Population 25 Years and over,472254
+2009,Female - No schooling completed,7670
+2009,Female - Nursery to 4th grade,6850
+2009,Female - 5th and 6th grade,20039
+2009,Female - 7th and 8th grade,13003
+2009,Female - 9th grade,12748
+2009,Female - 10th grade,10169
+2009,Female - 11th grade,12836
+2009,"Female - 12th grade, no diploma",13114
+2009,"Female - High school graduate, GED, or alternative",110334
+2009,"Female - Some college, less than 1 year",35240
+2009,"Female - Some college, 1 or more years, no degree",75547
+2009,Female - Associate's degree,35673
+2009,Female - Bachelor's degree,74055
+2009,Female - Master's degree,34552
+2009,Female - Professional school degree,7128
+2009,Female - Doctorate degree,3296
+2008,Total Population 25 Years and over,946824
+2008,Male Population 25 Years and over,483727
+2008,Male - No schooling completed,8104
+2008,Male - Nursery to 4th grade,9678
+2008,Male - 5th and 6th grade,26989
+2008,Male - 7th and 8th grade,18334
+2008,Male - 9th grade,15709
+2008,Male - 10th grade,14494
+2008,Male - 11th grade,9745
+2008,"Male - 12th grade, no diploma",14376
+2008,"Male - High school graduate, GED, or alternative",123068
+2008,"Male - Some college, less than 1 year",27130
+2008,"Male - Some college, 1 or more years, no degree",79088
+2008,Male - Associate's degree,29881
+2008,Male - Bachelor's degree,69143
+2008,Male - Master's degree,24244
+2008,Male - Professional school degree,10552
+2008,Male - Doctorate degree,3192
+2008,Female Population 25 Years and over,463097
+2008,Female - No schooling completed,8343
+2008,Female - Nursery to 4th grade,9449
+2008,Female - 5th and 6th grade,18969
+2008,Female - 7th and 8th grade,13723
+2008,Female - 9th grade,13772
+2008,Female - 10th grade,13583
+2008,Female - 11th grade,10906
+2008,"Female - 12th grade, no diploma",9831
+2008,"Female - High school graduate, GED, or alternative",111376
+2008,"Female - Some college, less than 1 year",32876
+2008,"Female - Some college, 1 or more years, no degree",76752
+2008,Female - Associate's degree,33808
+2008,Female - Bachelor's degree,71223
+2008,Female - Master's degree,28629
+2008,Female - Professional school degree,7541
+2008,Female - Doctorate degree,2316
