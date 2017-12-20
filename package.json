@@ -1,6 +1,6 @@
 {
   "name": "city-phoenix-2017-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of City of Phoenix Data 2017",
   "main": "index.js",
   "scripts": {
