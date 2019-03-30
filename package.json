@@ -1,12 +1,12 @@
 {
   "name": "city-phoenix-2017-data",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "Collection of City of Phoenix Data 2017",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["data","json"],
   "author": "Martin Patino",
   "license": "ISC",
   "dependencies": {

@@ -1,12 +1,36 @@
 # City of Phoenix Public Data
 
-Phoenix has published csv relevant for the years 2017.  I've translated that to JSON and published it as an NPM module.  Pull requests welcome if you notice discrepancies.
+Phoenix has published csv relevant for the years 2017.  I've translated that to JSON and published it as an NPM module. Go Crazy with public data and play around. Build something AWESOME! 
 
-# Usage
+KEEP ON CODING!
+
+
+## Install
+
+```
+
+npm i city-phoenix-2017-data
+
+```
+
+## Usage
 
 Here's some examples of querying the data using lodash.
 
 ```javascript
+
+import {crimeData, phoenixAzDemographicData, phoenixAzEconomicData, phoenixUnemploymentData} from 'city-phoenix-2017-data';
+
+Library consist of 4 data models :
+  
+  crimeData, phoenixAzDemographicData, phoenixAzEconomicData, phoenixUnemploymentData
+
+
+```
+
+## Example Data
+
+```
 
 [
   {
